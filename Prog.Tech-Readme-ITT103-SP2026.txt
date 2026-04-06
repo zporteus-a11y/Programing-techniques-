@@ -1,0 +1,17 @@
+i. Authors:Zidane Porteus and Rickardo Pinnock
+
+ii. Date Created:4/4/2026
+
+iii. Course: ITT103
+
+iv. GitHub Public URL to Code:
+
+The purpose of the program: To create A point of sale system for a small general store
+
+How to run it: You will need to first install python 3.14 on your computer, get a ide program I suggest PyCharm, download the python file called Prog.Tech-Readme-ITT103-SP2026, go to the file in your download folder and right click on it and select open with and select PyCharm and finally wait for it to load. Congratulations on getting the file to work on your own!(sometimes PyCharm doesn't run it when you click on the run button at the top of the screen so right click on the Prog.Tech-Readme-ITT103-SP2026 name that is in the tab bar just below and click run from the drop down menu it is a known bug with PyCharm and our program)
+
+Required modifications:
+
+Assumptions: assumptions are that the currency is in JMD, the 5% discount is applied to the total after tax and not before 
+
+Limitations: Only one cashier can operate the session at a time, the catalog cannot be updated during use and changes has to be done before, stock resets to the preconfigured amount if the program starts anew and another limitation is you have to add/remove each item individually then go back to the menu and do it again
